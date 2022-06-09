@@ -2,6 +2,5 @@
 void main()
 {
     printf("Hello\n");
-    printf("ce");
-    printf("ce");
+    printf("B521017");
 }
